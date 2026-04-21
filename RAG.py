@@ -1,6 +1,7 @@
 import os
 from pathlib import Path
 from dotenv import load_dotenv
+from langchain_groq import ChatGroq
 from langchain_xai import ChatXAI
 from langchain_community.vectorstores import FAISS
 from langchain_huggingface import HuggingFaceEmbeddings
@@ -61,7 +62,11 @@ for rank, (doc, score) in enumerate(results, 1):
     context_chunks.append(f"Source: {doc.metadata['source']}\nContent: {doc.page_content}")
 
 # 6. Grok API Synthesis
-llm = ChatXAI(model="grok-4.20-reasoning", xai_api_key=api_key)
+llm = ChatGroq(
+    model="llama-3.1-8b-instant",
+    groq_api_key=api_key,
+    temperature=0
+)
 
 context_text = "\n\n".join(context_chunks)
 prompt = f"""You are a Data Protection Officer. 
