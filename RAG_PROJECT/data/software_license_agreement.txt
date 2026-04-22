@@ -1,0 +1,226 @@
+SOFTWARE LICENSE AND SUPPORT AGREEMENT
+
+Agreement Number: SLA-2024-3847
+Effective Date: July 1, 2024
+
+BETWEEN:
+
+(1) TrueNorth Software Inc., a Washington corporation ("Licensor")
+    Address: 1000 Second Avenue, Suite 3500, Seattle, WA 98104
+
+(2) Pacific Coast Manufacturing Group, an Oregon corporation ("Licensee")
+    Address: 4500 Columbia Boulevard, Portland, OR 97203
+
+1. DEFINITIONS
+
+1.1 "Authorized Users" means the Licensee's employees, contractors, and agents who are authorized to access and use the Software, up to the number specified in the applicable Order Form.
+
+1.2 "Documentation" means the user manuals, technical specifications, release notes, and other written materials provided by the Licensor relating to the Software.
+
+1.3 "Error" means a material failure of the Software to conform to the functional specifications set forth in the Documentation.
+
+1.4 "Error Correction" means a modification or addition to the Software that corrects an Error, including bug fixes, patches, and workarounds.
+
+1.5 "Intellectual Property Rights" means all patents, copyrights, trademarks, trade secrets, know-how, and other intellectual property rights, whether registered or unregistered.
+
+1.6 "License Fee" means the fees payable by the Licensee for the license to use the Software, as specified in the Order Form.
+
+1.7 "Maintenance and Support Services" means the services described in Section 5, including Error Corrections, Updates, and technical support.
+
+1.8 "Object Code" means the machine-readable, compiled version of the Software.
+
+1.9 "Order Form" means the ordering document executed by both Parties specifying the Software modules licensed, number of Authorized Users, License Fee, and Support Fee.
+
+1.10 "Software" means the Licensor's proprietary manufacturing execution system known as "TrueNorth MES," including all modules specified in the Order Form, delivered in Object Code form.
+
+1.11 "Source Code" means the human-readable version of the Software, including all comments, annotations, and related documentation.
+
+1.12 "Support Fee" means the annual fee for Maintenance and Support Services, as specified in the Order Form.
+
+1.13 "Update" means a new release of the Software that includes functional enhancements, performance improvements, or compatibility updates, designated by the Licensor as a minor version change (e.g., from version 8.1 to version 8.2).
+
+1.14 "Upgrade" means a new major release of the Software designated by the Licensor as a major version change (e.g., from version 8.x to version 9.0). Upgrades are not included in Maintenance and Support Services and require a separate license.
+
+2. LICENSE GRANT
+
+2.1 Perpetual License. Subject to the terms of this Agreement and payment of the License Fee, the Licensor grants to the Licensee a non-exclusive, non-transferable, perpetual license to:
+(a) Install and use the Software in Object Code form at the Licensee's facilities located in the United States;
+(b) Permit up to five hundred (500) Authorized Users to access and use the Software concurrently;
+(c) Make a reasonable number of copies of the Software for backup and archival purposes;
+(d) Use the Documentation in connection with the Licensee's authorized use of the Software.
+
+2.2 Scope. The license granted herein is limited to:
+(a) The specific modules listed in the Order Form;
+(b) Use solely for the Licensee's internal business operations related to manufacturing execution, quality management, and production scheduling;
+(c) Installation on hardware and operating systems specified in the system requirements in the Documentation.
+
+2.3 License Restrictions. The Licensee shall not:
+(a) Sublicense, sell, lease, rent, or distribute the Software or any portion thereof;
+(b) Modify, adapt, translate, or create derivative works of the Software;
+(c) Reverse engineer, decompile, or disassemble the Software, except to the extent expressly permitted by applicable law;
+(d) Remove or alter any proprietary notices, labels, or marks on the Software;
+(e) Use the Software to provide services to third parties (including SaaS, hosting, or bureau services);
+(f) Use the Software in excess of the licensed number of Authorized Users or modules;
+(g) Transfer the Software to any third party without the Licensor's prior written consent;
+(h) Use the Software for benchmarking or competitive analysis without the Licensor's prior written consent.
+
+2.4 Audit Rights. The Licensor may, upon thirty (30) days' written notice and no more than once per calendar year, audit the Licensee's use of the Software to verify compliance with the license terms. The audit shall be conducted during normal business hours and shall not unreasonably interfere with the Licensee's operations. If the audit reveals unauthorized use exceeding five percent (5%) of the licensed capacity, the Licensee shall pay the applicable License Fees for such excess use plus the reasonable costs of the audit.
+
+3. DELIVERY AND INSTALLATION
+
+3.1 Delivery. The Licensor shall deliver the Software electronically within ten (10) business days of the Effective Date. Delivery shall include the Object Code, Documentation, and license keys.
+
+3.2 Installation. The Licensor shall provide installation assistance at the Licensee's primary facility at no additional charge. Installation at additional facilities shall be available at the Licensor's then-current professional services rates.
+
+3.3 Acceptance Testing. The Licensee shall have thirty (30) days from installation to conduct acceptance testing against the functional specifications in the Documentation ("Acceptance Period"). The Software shall be deemed accepted upon the earlier of:
+(a) Written notice of acceptance from the Licensee;
+(b) Expiration of the Acceptance Period without written notice of rejection;
+(c) The Licensee's productive use of the Software.
+
+3.4 Rejection. If the Software fails to materially conform to the Documentation during the Acceptance Period, the Licensee shall provide written notice specifying the nonconformity. The Licensor shall use commercially reasonable efforts to correct the nonconformity within fifteen (15) business days. If the Licensor fails to correct the nonconformity, the Licensee may reject the Software and receive a full refund of the License Fee.
+
+4. FEES AND PAYMENT
+
+4.1 License Fee. The Licensee shall pay the one-time License Fee of six hundred seventy-five thousand dollars ($675,000) as follows:
+(a) Fifty percent (50%) upon execution of this Agreement;
+(b) Twenty-five percent (25%) upon delivery;
+(c) Twenty-five percent (25%) upon acceptance.
+
+4.2 Support Fee. Annual Maintenance and Support Fees shall be:
+(a) Year 1: Included in the License Fee;
+(b) Year 2 and beyond: Twenty percent (20%) of the then-current list price of the licensed Software modules, currently one hundred thirty-five thousand dollars ($135,000) per year.
+
+4.3 Support Fee Increases. The Licensor may increase the Support Fee annually by the greater of:
+(a) Three percent (3%); or
+(b) The percentage increase in the Consumer Price Index (CPI-U) for the preceding twelve-month period.
+
+4.4 Payment Terms. All invoices are due within thirty (30) days of the invoice date. Late payments shall accrue interest at the rate of one percent (1%) per month.
+
+4.5 Taxes. All fees are exclusive of applicable taxes, which shall be the responsibility of the Licensee.
+
+5. MAINTENANCE AND SUPPORT SERVICES
+
+5.1 Scope. During the period for which Support Fees have been paid, the Licensor shall provide:
+(a) Error Corrections for Errors reported by the Licensee;
+(b) Updates to the Software as they become generally available;
+(c) Telephone and email technical support during Business Hours;
+(d) Access to the Licensor's online knowledge base and support portal;
+(e) Remote diagnostic assistance.
+
+5.2 Support Hours. "Business Hours" means 6:00 AM to 6:00 PM Pacific Time, Monday through Friday, excluding U.S. federal holidays.
+
+5.3 Error Classification and Response Times. Errors shall be classified and addressed as follows:
+
+(a) Severity 1 — Critical: The Software is inoperable or a core function is unavailable, and no workaround exists. Production operations are halted.
+    Response Time: One (1) hour.
+    Resolution Target: Eight (8) hours.
+    Availability: 24/7, including holidays.
+
+(b) Severity 2 — Major: A major function is significantly impaired, but a workaround is available. Production operations are degraded.
+    Response Time: Four (4) hours during Business Hours.
+    Resolution Target: Two (2) business days.
+
+(c) Severity 3 — Minor: A minor function is impaired, or a cosmetic defect exists. Production operations are not materially affected.
+    Response Time: One (1) business day.
+    Resolution Target: Next scheduled Update.
+
+(d) Severity 4 — Enhancement Request: A request for new functionality or improvement.
+    Response Time: Five (5) business days (acknowledgment only).
+    Resolution: Considered for future releases at the Licensor's discretion.
+
+5.4 Escalation. If the Licensee is not satisfied with the progress on a Severity 1 or Severity 2 Error, it may escalate to the Licensor's Director of Customer Support, and further to the VP of Engineering if unresolved within the Resolution Target.
+
+5.5 Exclusions. Maintenance and Support Services do not cover:
+(a) Errors caused by the Licensee's modifications to the Software;
+(b) Errors resulting from use of the Software on unsupported hardware or operating systems;
+(c) Errors caused by third-party software not approved by the Licensor;
+(d) Training or consulting services (available separately);
+(e) Data recovery resulting from the Licensee's failure to maintain backups;
+(f) Support for versions of the Software that are more than two (2) major versions behind the current release.
+
+5.6 Reinstatement. If the Licensee allows Maintenance and Support to lapse, reinstatement shall require payment of all unpaid Support Fees for the lapsed period plus a reinstatement fee equal to twenty-five percent (25%) of the current annual Support Fee.
+
+6. SOURCE CODE ESCROW
+
+6.1 Escrow. Within thirty (30) days of the Effective Date, the Licensor shall deposit a complete copy of the Source Code for the Software with a reputable third-party escrow agent mutually agreed upon by the Parties (the "Escrow Agent"). The costs of the escrow arrangement shall be borne equally by the Parties.
+
+6.2 Updates to Escrow. The Licensor shall update the escrowed Source Code with each major release of the Software.
+
+6.3 Release Conditions. The Escrow Agent shall release the Source Code to the Licensee upon the occurrence of any of the following events:
+(a) The Licensor files for bankruptcy or enters insolvency proceedings;
+(b) The Licensor ceases to conduct business as a going concern;
+(c) The Licensor materially breaches its Maintenance and Support obligations and fails to cure within sixty (60) days of written notice;
+(d) The Licensor is acquired by a third party and the acquiring entity discontinues support for the Software.
+
+6.4 License Upon Release. Upon release of the Source Code, the Licensee shall have a limited license to use, modify, and maintain the Source Code solely for the purpose of maintaining the Software for the Licensee's internal business use. The Licensee shall not distribute, sublicense, or disclose the Source Code to any third party, except to contractors engaged to maintain the Software on the Licensee's behalf, subject to confidentiality obligations at least as protective as this Agreement.
+
+7. WARRANTIES
+
+7.1 Software Warranty. The Licensor warrants that:
+(a) The Software shall materially conform to the Documentation for a period of twelve (12) months from acceptance (the "Warranty Period");
+(b) The Software does not contain any intentional mechanisms designed to disrupt or disable the Licensee's use (e.g., time bombs, malware, or unauthorized data collection);
+(c) The Licensor has the right to grant the license and provide the Software.
+
+7.2 Infringement Warranty. The Licensor warrants that the Software, as delivered, does not infringe any third-party Intellectual Property Rights. This warranty does not apply to:
+(a) Modifications made by the Licensee;
+(b) Combination of the Software with third-party products not approved by the Licensor;
+(c) Use of the Software in a manner not contemplated by the Documentation.
+
+7.3 Disclaimer. EXCEPT AS EXPRESSLY SET FORTH IN THIS SECTION 7, THE SOFTWARE IS PROVIDED "AS IS." THE LICENSOR DISCLAIMS ALL OTHER WARRANTIES, EXPRESS OR IMPLIED, INCLUDING WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE, AND NON-INFRINGEMENT.
+
+8. LIMITATION OF LIABILITY
+
+8.1 Cap. EXCEPT FOR BREACHES OF SECTIONS 2.3 (LICENSE RESTRICTIONS), 9 (CONFIDENTIALITY), OR 7.2 (INFRINGEMENT WARRANTY), NEITHER PARTY'S AGGREGATE LIABILITY SHALL EXCEED THE TOTAL FEES PAID OR PAYABLE BY THE LICENSEE UNDER THIS AGREEMENT IN THE TWELVE (12) MONTHS PRECEDING THE CLAIM.
+
+8.2 Exclusion. IN NO EVENT SHALL EITHER PARTY BE LIABLE FOR INDIRECT, INCIDENTAL, SPECIAL, CONSEQUENTIAL, OR PUNITIVE DAMAGES, INCLUDING LOSS OF PROFITS, DATA, PRODUCTION, OR BUSINESS OPPORTUNITY.
+
+8.3 Infringement Liability. The Licensor's aggregate liability for intellectual property infringement claims shall not exceed two times (2x) the License Fee.
+
+9. CONFIDENTIALITY
+
+9.1 Definition. "Confidential Information" includes the Software (including Source Code if released from escrow), Documentation, pricing, business plans, technical information, and any other information marked as confidential or that a reasonable person would understand to be confidential.
+
+9.2 Obligations. Each Party shall hold the other's Confidential Information in strict confidence, use it only for purposes of this Agreement, and not disclose it to third parties without prior written consent.
+
+9.3 Exceptions. Confidential Information excludes information that: (a) is publicly available; (b) was known prior to disclosure; (c) is independently developed; or (d) is received from a third party without restriction.
+
+9.4 Duration. Confidentiality obligations shall survive termination for five (5) years, except for trade secrets and Source Code, which shall be protected indefinitely.
+
+10. TERM AND TERMINATION
+
+10.1 Term. This Agreement shall commence on the Effective Date and continue in perpetuity with respect to the license grant, subject to earlier termination as provided herein. Maintenance and Support Services shall continue on a year-to-year basis subject to payment of the annual Support Fee.
+
+10.2 Termination for Cause. Either Party may terminate this Agreement upon thirty (30) days' written notice if the other Party materially breaches and fails to cure within such period.
+
+10.3 Termination for Insolvency. Either Party may terminate immediately upon written notice if the other Party becomes insolvent, files for bankruptcy, or makes an assignment for the benefit of creditors.
+
+10.4 Effect of Termination. Upon termination:
+(a) If terminated by the Licensee for the Licensor's breach: the license shall continue in perpetuity, but Maintenance and Support Services shall cease;
+(b) If terminated by the Licensor for the Licensee's breach: all licenses shall terminate, and the Licensee shall uninstall and destroy all copies of the Software and certify such destruction in writing within thirty (30) days;
+(c) All accrued payment obligations, confidentiality provisions, and limitation of liability provisions shall survive.
+
+11. GENERAL PROVISIONS
+
+11.1 Governing Law. This Agreement shall be governed by the laws of the State of Washington, without regard to conflict of laws principles.
+
+11.2 Dispute Resolution. Disputes shall be resolved by binding arbitration in Seattle, Washington under the AAA Commercial Arbitration Rules, except that either Party may seek injunctive relief for IP or confidentiality breaches.
+
+11.3 Export Compliance. The Licensee shall comply with all applicable U.S. export control laws and regulations and shall not export or re-export the Software to any prohibited destination or person.
+
+11.4 Force Majeure. Neither Party shall be liable for delays caused by events beyond its reasonable control.
+
+11.5 Entire Agreement. This Agreement and the Order Form constitute the entire agreement and supersede all prior agreements on the subject matter.
+
+11.6 Assignment. Neither Party may assign without prior written consent, except in connection with a merger or acquisition.
+
+11.7 Severability. Invalid provisions shall be modified to the minimum extent necessary, with remaining provisions unaffected.
+
+11.8 Notices. All notices shall be in writing to the addresses above.
+
+IN WITNESS WHEREOF, the Parties have executed this Agreement as of the Effective Date.
+
+TRUENORTH SOFTWARE INC.                    PACIFIC COAST MANUFACTURING GROUP
+By: ___________________________            By: ___________________________
+Name: Daniel Kowalski                       Name: Margaret Liu
+Title: SVP, Sales and Partnerships          Title: VP, Information Technology
+Date: July 1, 2024                          Date: July 1, 2024
